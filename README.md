@@ -9,7 +9,7 @@ A beautiful and functional mobile app built using **React Native** and **Expo**.
 ---
 ## :camera_with_flash: Screenshots
 Replace these image paths with your actual screenshots.
-| Authentication Screens | \Home and Main Screens | UserRole Screens |
+| Authentication Screens | Home and Main Screens | UserRole Screens |
 |-------------|--------------|----------------|
 | ![Authentication](./screenshots/authentication.png) | ![Home](./screenshots/home.png) | ![UserRole](./screenshots/userRole.png) |
 ---
