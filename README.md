@@ -6,14 +6,12 @@ A beautiful and functional mobile app built using **React Native** and **Expo**.
 - :compass: Intuitive Navigation using React Navigation
 - :art: Responsive and customizable UI
 - :zap: Fast performance with Expo
-- :camera: Media or Image Upload Support *(if applicable)*
-- :globe_with_meridians: API Integration *(mention if any)*
 ---
 ## :camera_with_flash: Screenshots
 Replace these image paths with your actual screenshots.
-| Home Screen | Login Screen | Profile Screen |
+| Authentication Screens | \Home and Main Screens | UserRole Screens |
 |-------------|--------------|----------------|
-| ![Home](./screenshots/home.png) | ![Login](./screenshots/login.png) | ![Profile](./screenshots/profile.png) |
+| ![Authentication](./screenshots/authentication.png) | ![Home](./screenshots/home.png) | ![UserRole](./screenshots/userRole.png) |
 ---
 ## :rocket: Getting Started
 ### Prerequisites
@@ -26,7 +24,7 @@ git clone [https://github.com/yourusername/your-repo-name.git](https://github.co
 cd your-repo-name
 npm install
 expo start
---
+```
 
 ### heart: Support
 If you like this project, please :star:️ the repository to support the developer.
