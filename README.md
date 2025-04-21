@@ -25,10 +25,8 @@ Make sure you have the following installed:
 git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Khuwaja-Umair/fly-eats.git)
 cd your-repo-name
 npm install
-
-```bash
 expo start
+--
 
-
-:heart: Support
+### heart: Support
 If you like this project, please :star:️ the repository to support the developer.
