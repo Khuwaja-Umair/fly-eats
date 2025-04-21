@@ -1,4 +1,4 @@
-# :iphone: Your Project Name
+# :iphone: Fly Eats
 A beautiful and functional mobile app built using **React Native** and **Expo**. This project showcases modern mobile app development with clean UI, smooth navigation, and responsive design.
 ---
 ## :sparkles: Features
@@ -22,6 +22,13 @@ Make sure you have the following installed:
 - Expo CLI: `npm install -g expo-cli`
 ### Installation
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Khuwaja-Umair/fly-eats.git)
 cd your-repo-name
 npm install
+
+```bash
+expo start
+
+
+:heart: Support
+If you like this project, please :star:️ the repository to support the developer.
